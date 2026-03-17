@@ -1,4 +1,4 @@
-# EXCEL_Blinkit_Analysis  
+# EXCEL_Blinkit_Analysis 
 
 **Objective:**  
 To perform a detailed analysis of Blinkit's sales, performance, customer satisfaction, and inventory distribution using Excel, aiming to uncover actionable insights and drive optimization across key business areas. This analysis leverages key performance indicators (KPIs), advanced Excel functions, and data visualization techniques to provide a comprehensive view of business performance.
